@@ -2,7 +2,7 @@
 """HR announced the new AI policy is 'just - entry for a make.fun judge bounty."""
 import os
 
-LINE = "HR announced the new AI policy is 'just use common sense.' Three people asked if common sense is included in the free tier."
+LINE = "HR said the new AI policy is 'just use common sense.' Three people asked if it's on the free tier \u2014 one asked if it integrates with Slack."
 
 def main():
     os.makedirs("/output", exist_ok=True)
